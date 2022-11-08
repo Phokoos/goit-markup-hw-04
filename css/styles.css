@@ -547,7 +547,6 @@ img {
 	color: var(--primary-icon-color);
 	border-radius: 50%;
 	text-decoration: none;
-	color: inherit;
 }
 
 .social-icon {
